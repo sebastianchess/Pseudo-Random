@@ -24,3 +24,8 @@ for _ in range(10):
     print(choices(names))
 ```
 In this case there's variety and I presume it has to do with the effect time has on the program.
+
+### Final 
+I might have come up with something in my mind but it might be quite difficult to actually implement it. 
+Note that I made the class an Iterator, so you can loop over the object and generate random numbers. I just did the easy part and I hope you contribute!
+
